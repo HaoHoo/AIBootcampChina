@@ -1,0 +1,10 @@
+{
+  "name": "aibootcampchina",
+  "version": "1.0.0",
+  "description": "Website for AI Bootcamp China sign-in.",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "author": "Hao Hu"
+}
